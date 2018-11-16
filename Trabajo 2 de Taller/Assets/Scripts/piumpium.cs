@@ -9,6 +9,7 @@ public class piumpium : Enemy_script {
     private Transform playerpos;
 
     public GameObject shotenemy;
+    public GameObject canonpium;
 
     // Use this for initialization
     void Start () {
@@ -31,7 +32,7 @@ public class piumpium : Enemy_script {
     {
         playerpos = GameObject.FindGameObjectWithTag("Player").GetComponent<Transform>();
 
-        Instantiate(shotenemy, transform.position, playerpos.rotation);
+        Instantiate(shotenemy, canonpium.transform.position, playerpos.rotation);
         
         
         Debug.Log("Encontradoo");

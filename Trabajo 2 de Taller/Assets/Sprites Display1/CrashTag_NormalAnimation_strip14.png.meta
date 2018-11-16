@@ -1,21 +1,21 @@
 fileFormatVersion: 2
-guid: be464f4677c0b7749810ae81549d0d7f
+guid: b6ce80d83f8d0cc4a86d0db9d56680c1
 TextureImporter:
   fileIDToRecycleName:
-    21300000: Elshare_strip14_0
-    21300002: Elshare_strip14_1
-    21300004: Elshare_strip14_2
-    21300006: Elshare_strip14_3
-    21300008: Elshare_strip14_4
-    21300010: Elshare_strip14_5
-    21300012: Elshare_strip14_6
-    21300014: Elshare_strip14_7
-    21300016: Elshare_strip14_8
-    21300018: Elshare_strip14_9
-    21300020: Elshare_strip14_10
-    21300022: Elshare_strip14_11
-    21300024: Elshare_strip14_12
-    21300026: Elshare_strip14_13
+    21300000: CrashTag_NormalAnimation_strip14_0
+    21300002: CrashTag_NormalAnimation_strip14_1
+    21300004: CrashTag_NormalAnimation_strip14_2
+    21300006: CrashTag_NormalAnimation_strip14_3
+    21300008: CrashTag_NormalAnimation_strip14_4
+    21300010: CrashTag_NormalAnimation_strip14_5
+    21300012: CrashTag_NormalAnimation_strip14_6
+    21300014: CrashTag_NormalAnimation_strip14_7
+    21300016: CrashTag_NormalAnimation_strip14_8
+    21300018: CrashTag_NormalAnimation_strip14_9
+    21300020: CrashTag_NormalAnimation_strip14_10
+    21300022: CrashTag_NormalAnimation_strip14_11
+    21300024: CrashTag_NormalAnimation_strip14_12
+    21300026: CrashTag_NormalAnimation_strip14_13
   externalObjects: {}
   serializedVersion: 7
   mipmaps:
@@ -98,13 +98,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Elshare_strip14_0
+      name: CrashTag_NormalAnimation_strip14_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 52
-        height: 71
+        width: 58
+        height: 58
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -112,139 +112,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 226755c030fb00a44ab5d161e43defd4
+      spriteID: 1a1e62398da6add4ca079b10e3a29f26
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Elshare_strip14_1
+      name: CrashTag_NormalAnimation_strip14_1
       rect:
         serializedVersion: 2
-        x: 52
-        y: 3
-        width: 52
-        height: 68
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1d400be90df02224b83f967af28fc2d0
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Elshare_strip14_2
-      rect:
-        serializedVersion: 2
-        x: 104
-        y: 5
-        width: 52
-        height: 65
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cf72b9d7a051fca42a8ec6b23e8812e3
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Elshare_strip14_3
-      rect:
-        serializedVersion: 2
-        x: 156
-        y: 7
-        width: 52
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 17acf7ee851b2a54a904fa4269cbc78c
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Elshare_strip14_4
-      rect:
-        serializedVersion: 2
-        x: 208
-        y: 9
-        width: 52
-        height: 62
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6d9a1440cf7c7524db9894f53d7f40a5
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Elshare_strip14_5
-      rect:
-        serializedVersion: 2
-        x: 260
-        y: 10
-        width: 52
-        height: 61
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0ec95721f06d70048bb9e941272bfbc2
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Elshare_strip14_6
-      rect:
-        serializedVersion: 2
-        x: 312
-        y: 5
-        width: 52
-        height: 65
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3a0cd089a042a594ba72363e08d46b91
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Elshare_strip14_7
-      rect:
-        serializedVersion: 2
-        x: 364
+        x: 58
         y: 0
-        width: 52
-        height: 71
+        width: 58
+        height: 58
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -252,19 +132,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e21a089caa5ca70498939ad6984c7885
+      spriteID: e343bbba0539b8d4d84422baaee526c4
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Elshare_strip14_8
+      name: CrashTag_NormalAnimation_strip14_2
       rect:
         serializedVersion: 2
-        x: 416
-        y: 3
-        width: 52
-        height: 68
+        x: 116
+        y: 0
+        width: 58
+        height: 58
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -272,19 +152,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b73b5aea1105fad42aa4433b14abd701
+      spriteID: 32b39deb7eca8e448b0a49f57dc5493a
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Elshare_strip14_9
+      name: CrashTag_NormalAnimation_strip14_3
       rect:
         serializedVersion: 2
-        x: 468
-        y: 5
-        width: 52
-        height: 65
+        x: 174
+        y: 0
+        width: 58
+        height: 58
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -292,19 +172,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 478d234d78f93dc49b349c2d9ca46583
+      spriteID: 47258a65a96bf764799e489d5a9c7c84
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Elshare_strip14_10
+      name: CrashTag_NormalAnimation_strip14_4
       rect:
         serializedVersion: 2
-        x: 520
-        y: 7
-        width: 52
-        height: 64
+        x: 232
+        y: 0
+        width: 58
+        height: 58
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -312,19 +192,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 69d9622ca6026794da818c9a1c57f4e1
+      spriteID: 3943acb482168cb41aa8cc3550704484
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Elshare_strip14_11
+      name: CrashTag_NormalAnimation_strip14_5
       rect:
         serializedVersion: 2
-        x: 572
-        y: 9
-        width: 52
-        height: 62
+        x: 290
+        y: 0
+        width: 58
+        height: 58
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -332,19 +212,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dbf80f9598ce8a64184caec0768fd260
+      spriteID: 120fef24bc9313a41b9a0b1e1a0c50c7
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Elshare_strip14_12
+      name: CrashTag_NormalAnimation_strip14_6
       rect:
         serializedVersion: 2
-        x: 624
-        y: 10
-        width: 52
-        height: 61
+        x: 348
+        y: 0
+        width: 58
+        height: 58
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -352,19 +232,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a0c9a29b5b7cbe34f91e82e411109169
+      spriteID: d5f08213adb8d274b9be757fee9a52fc
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Elshare_strip14_13
+      name: CrashTag_NormalAnimation_strip14_7
       rect:
         serializedVersion: 2
-        x: 676
-        y: 5
-        width: 52
-        height: 65
+        x: 406
+        y: 0
+        width: 58
+        height: 58
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -372,7 +252,127 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3b534274c23e2704bb983e1abb5a5091
+      spriteID: ceb2ae55b2a2fbb4c96f551e0b07d756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrashTag_NormalAnimation_strip14_8
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 0
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3329dda634488564f920bc52e83b13ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrashTag_NormalAnimation_strip14_9
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 0
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1062ec31ed4c544a845f127341ee1a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrashTag_NormalAnimation_strip14_10
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 0
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d95f634d803e064398732667c877175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrashTag_NormalAnimation_strip14_11
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 0
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139f715aa9df7d74994c7ea16e583bc0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrashTag_NormalAnimation_strip14_12
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 0
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd6c322f2264a64f8d6be2cfe4a0709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrashTag_NormalAnimation_strip14_13
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 0
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a5e7af1571fa04b93643611070bacf
       vertices: []
       indices: 
       edges: []
@@ -380,7 +380,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 285363ac0f0e18140b5ea66409756de2
+    spriteID: 1d537fce384ff844192eae999814d3a8
     vertices: []
     indices: 
     edges: []
