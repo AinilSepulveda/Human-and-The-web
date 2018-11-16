@@ -6,6 +6,7 @@ using UnityEngine.SceneManagement;
 public class Player1Controler : MonoBehaviour {
     Rigidbody2D rb2d;
     Transform myTransform;
+    Animator anim;
   public float speed;
    public int vida = 100;
 
@@ -26,7 +27,7 @@ public class Player1Controler : MonoBehaviour {
     void Start () {
         rb2d = GetComponent<Rigidbody2D>();
         myTransform = GetComponent<Transform>();
-
+        anim = GetComponent<Animator>();
         posYmin = -4.34f;
         posYmax = 18f;
 
@@ -66,12 +67,15 @@ public class Player1Controler : MonoBehaviour {
     {
         float h = Input.GetAxis("Horizontal");
         float v = Input.GetAxis("Vertical");
-      //  float H2 = Input.GetAxis("Jhorizontal2");
-      //  Vector3 rotation = new Vector3(0f, 0f, H2 * speed/2);
+
         Vector2 movemet = new Vector2(h, v);
-  //      Debug.Log(H2);
+
 
         rb2d.velocity = movemet * speed;
+
+
+
+        anim.SetFloat("Speed", Mathf.Abs(rb2d.velocity.y));
        rb2d.position = new Vector2((Mathf.Clamp(rb2d.position.x, posXmin, posXmax)), (Mathf.Clamp(rb2d.position.y, posYmin, posYmax)));
 
       //  transform.Rotate(rotation);
